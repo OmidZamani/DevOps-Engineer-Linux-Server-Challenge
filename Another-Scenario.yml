@@ -1,0 +1,43 @@
+scenario:
+  title: "DevOps Catastrophe and Recovery in a Linux Server Environment"
+  role: "Lead DevOps Engineer"
+  company: "High-tech enterprise"
+  user_base: "Over a million users globally"
+  events:
+    - id: 1
+      description: "Unable to SSH into a mission-critical Linux server."
+    - id: 2
+      description: "Server is rapidly running out of disk space due to an unknown data surge."
+    - id: 3
+      description: "Users report that the flagship application is performing slower than usual."
+    - id: 4
+      description: "Application is unable to write to a specific log file on the server."
+    - id: 5
+      description: "Tasked with automating a daily application health-check task."
+    - id: 6
+      description: "One of the Linux servers unexpectedly reboots, causing a service interruption."
+    - id: 7
+      description: "A process is consuming an excessive amount of CPU resources."
+    - id: 8
+      description: "A crucial configuration file named 'example.txt' has gone missing."
+    - id: 9
+      description: "Another Linux server handling data storage is almost out of disk space."
+    - id: 10
+      description: "A vulnerability has been discovered in a software package widely used across Linux servers."
+  long_term_projects:
+    - id: 1
+      description: "Planning a major Linux kernel upgrade across all servers."
+    - id: 2
+      description: "Implementing a new backup strategy that adheres to ITIL processes."
+    - id: 3
+      description: "Handling the deployment of a new, high-priority application."
+    - id: 4
+      description: "Ensuring high availability and consistent performance of all services."
+    - id: 5
+      description: "Preparing for decommissioning a legacy Linux server."
+  ongoing_issues:
+    - id: 1
+      description: "Signs of performance degradation on some Linux servers."
+    - id: 2
+      description: "One server has been compromised and is being used for sending spam emails."
+  challenge: "Manage these crises while ensuring minimal disruption to the services, maintaining security, and preventing similar issues in the future."
